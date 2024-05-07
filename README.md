@@ -4,7 +4,7 @@
 
 ## Certificações
 
-[![Certificações](https://www.credly.com/earner/earned/badge/df0b85cf-8dc4-4354-92f3-1034b93fd4cd)]()
+[![Certificações](https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)]()
 
 ## Minhas Redes 
 
