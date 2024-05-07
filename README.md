@@ -2,11 +2,9 @@
 
 ### Meu nome é Anna Beatriz, tenho 18 anos e atualmente estou cursando técnico em Desenvolvimento de Sistemas e técnico em Multimídia.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="18d64351-e022-4721-8ad7-caae074d095a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+##Certificações
 
-<a href="[https://www.credly.com/earner/earned/badge/a388d9be-6a68-4804-8421-c0d23bbafc40](https://www.credly.com/badges/18d64351-e022-4721-8ad7-caae074d095a/public_url)">
-  <img width="10%" height="10%"  src="[https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png](https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)"/>
- </a>
+ [![Certificação](https://www.credly.com/badges/18d64351-e022-4721-8ad7-caae074d095a/public_url)](https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)
 
 ## Minhas Redes 
 
