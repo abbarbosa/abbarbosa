@@ -5,7 +5,7 @@
 ## Certificações
 
 [![Certificações](https://images.credly.com/size/100x100/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)]()
-![image][(https://github.com/abbarbosa/abbarbosa/assets/133692577/2fa406a5-7094-4f7c-8036-67e701725179)]()
+![60bf472d55209521452bb7fd_Adobe Certified Professional Illustrator digital badge_glow](https://github.com/abbarbosa/abbarbosa/assets/133692577/ec5c8500-166e-4cd7-9e54-0143003d216d)
 
 
 ## Minhas skills 🧠
