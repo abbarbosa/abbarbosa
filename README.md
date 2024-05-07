@@ -6,9 +6,6 @@
 
 [![Certificações](https://images.credly.com/size/100x100/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)]()
 
-![Adobe Certified](https://github.com/abbarbosa/abbarbosa/assets/133692577/ec5c8500-166e-4cd7-9e54-0143003d216d){:height="100px" width="100px"}
-
-
 ## Minhas skills 🧠
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
