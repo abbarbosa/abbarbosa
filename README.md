@@ -2,6 +2,8 @@
 
 ### Meu nome é Anna Beatriz, tenho 18 anos e atualmente estou cursando técnico em Desenvolvimento de Sistemas e técnico em Multimídia.
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="18d64351-e022-4721-8ad7-caae074d095a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Minhas Redes 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annabeatrizbarbosacheligahorta/)
