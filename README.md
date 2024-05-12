@@ -26,7 +26,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annabeatrizbarbosacheligahorta/)
 [![Behance](https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/annabiab)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annabiab.design/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annabia.design/)
 
 ## Extras
 [![PREZI](
