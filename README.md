@@ -29,11 +29,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annabia.design/)
 
 ## Extras
-[![PREZI](
-https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)]()
-[![TRELLO](
-    https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]()
-[![UDEMY](
-https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 
 ![abbabarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=abbarbosa&show_icons=true&theme=radical)
