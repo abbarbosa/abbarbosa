@@ -5,7 +5,6 @@
 ## Certificações
 
 [![Certificações](https://images.credly.com/size/100x100/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)]()
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&size=20)
 
 
 ## Minhas skills 🧠
