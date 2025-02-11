@@ -1,6 +1,6 @@
 # Hello World! 🖥️
 
-### Meu nome é Anna Beatriz, tenho 18 anos e atualmente estou cursando técnico em Desenvolvimento de Sistemas e técnico em Multimídia.
+### Meu nome é Anna Beatriz, tenho 19 anos e atuo como designer e desenvolvedora front-end.
 
 ## Certificações
 
