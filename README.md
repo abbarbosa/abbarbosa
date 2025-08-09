@@ -5,25 +5,10 @@
 ## Certificações
 
 <div>
-  <a href="https://www.credly.com/earner/earned/badge/a388d9be-6a68-4804-8421-c0d23bbafc40">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
- </a>
-
-  <a href="https://www.credly.com/earner/earned/badge/a388d9be-6a68-4804-8421-c0d23bbafc40">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
- </a>
-
-  <a href="https://www.credly.com/earner/earned/badge/a388d9be-6a68-4804-8421-c0d23bbafc40">
   <img width="10%" height="10%"  src="https://images.credly.com/images/5155ed69-ad73-45e3-831b-60507ddeb1ad/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png"/>
- </a>
- 
 </div>
-
-
-[![Certificações]()]()
-[![Certificações]()]()
-[![Certificações]()]()
-
 
 ## Minhas skills 🧠
 
