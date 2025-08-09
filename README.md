@@ -6,8 +6,8 @@
 
 <div>
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-  <img width="10%" height="10%"  src="https://images.credly.com/images/5155ed69-ad73-45e3-831b-60507ddeb1ad/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png"/>
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/5155ed69-ad73-45e3-831b-60507ddeb1ad/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png"/>
 </div>
 
 ## Minhas skills 🧠
